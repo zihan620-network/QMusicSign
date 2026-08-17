@@ -45,18 +45,6 @@ JackHanQMusicSign` 是一个接收 QQ 音乐请求参数串、本地计算并返
 
 > 自定义字符表：`ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789`（62 位，非标准 base64）
 
-## 📁 目录结构
-
-```
-JackHanQMusicSign/
-├── JackHanQMusicSign.py    # 服务主程序
-├── requirements.txt        # Python 依赖
-├── README.md               # 本文档
-├── docs/
-│   └── JackHanQMusicSign.md  # 详细逆向说明（可选）
-└── dist/
-    └── JackHanQMusicSign.exe # 编译好的 Windows 可执行文件（可选）
-```
 
 ## 🚀 快速开始
 
